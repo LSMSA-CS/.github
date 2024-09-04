@@ -10,11 +10,11 @@ Active for the 2024–2025 school year*
 
 ### 👔 Current Officers
 
-- **President -** Isaac Young (@isoscelestial)
+- **President -** Isaac Young ([@isoscelestial](https://github.com/Isoscelestial))
 - **Vice President -** `N/A`
 - **Secretary -** `N/A`
 - **Secretary of the Treasury -** `N/A`
-- **Secretary of War -** `N/A`
+- **Secretary of War -** Peter Yu ([@propeter35](https://github.com/propeter35))
 - **Secretary of Defense -** `N/A`
 
 ### 📸 Follow us!
