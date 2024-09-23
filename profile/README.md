@@ -11,12 +11,11 @@ Active for the 2024–2025 school year*
 ### 👔 Current Officers
 
 - **President -** Isaac Young ([@isoscelestial](https://github.com/Isoscelestial))
-- **Vice President -** `N/A`
-- **Secretary -** `N/A`
-- **Secretary of the Treasury -** `N/A`
-- **Secretary of the Press -** `N/A`
+- **Vice President -** Amelia Willis
+- **Secretary -** Joshua Cleveland ([@vo-ip9](https://github.com/vo-ip9))
+- **Secretary of the Treasury -** Jacob Hypes
 - **Secretary of War -** Peter Yu ([@propeter35](https://github.com/propeter35))
-- **Secretary of Defense -** `N/A`
+- **Secretary of Defense -** Rocky Wright
 
 ### 📸 Follow us!
 - **Instagram -** [@lsmsa.cs](https://www.instagram.com/lsmsa.cs/)
