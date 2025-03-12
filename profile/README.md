@@ -24,5 +24,5 @@ Active for the 2024–2025 school year*
 #
 
 <sub>
-  If you are a future officer of LSMSA CS, email isoscelestial@gmail.com to get access to this organization.
+  If you are an officer of a future LSMSA CS club, email isoscyoung@gmail.com to gain access to this organization.
 </sub>
