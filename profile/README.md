@@ -3,19 +3,29 @@
 
   ### **Computer Science Club!** 💻   
   @ Louisiana School for Math, Science, and the Arts ([lsmsa.edu](https://www.lsmsa.edu/))  
-Active for the 2024–2025 school year*
+Active starting in 2024 and presently active until 2026
 </div>
 
 #
 
 ### 👔 Current Officers
 
-- **President -** Caiden Bergeron ([@isoscelestial](https://github.com/Isoscelestial))
-- **Vice President -** Amelia Willis (London B) 
-- **Secretary -** Joshua Cleveland ([@vo-ip9](https://github.com/vo-ip9))
-- **Secretary of the Treasury -** Jacob Hypes
-- **Secretary of War -** Peter Yu ([@propeter35](https://github.com/propeter35))
-- **Secretary of Defense -** Rocky Wright
+- **President -** Caiden ([@Floral-Ouroboros ](https://github.com/Floral-Ouroboros ))
+- **Vice President -** London ([@LabRoboticist](https://github.com/LabRoboticist))
+- **Secretary -** N/A
+- **Treasurer -** N/A
+
+<details>
+  <summary>Officers from 2024‒2025 year</summary>
+  
+  - **President -** Isaac Young ([@isoscelestial](https://github.com/Isoscelestial))
+  - **Vice President -** Amelia Willis
+  - **Secretary -** Joshua Cleveland ([@vo-ip9](https://github.com/vo-ip9))
+  - **Secretary of the Treasury -** Jacob Hypes
+  - **Secretary of War -** Peter Yu ([@propeter35](https://github.com/propeter35))
+  - **Secretary of Defense -** Rocky Wright
+</details>
+
 
 ### 📸 Follow us!
 - **Instagram -** [@lsmsa.cs](https://www.instagram.com/lsmsa.cs/)
