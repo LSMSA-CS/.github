@@ -10,8 +10,8 @@ Active for the 2024–2025 school year*
 
 ### 👔 Current Officers
 
-- **President -** Isaac Young ([@isoscelestial](https://github.com/Isoscelestial))
-- **Vice President -** Amelia Willis
+- **President -** Isaac Young ([@isoscelestial](https://github.com/Isoscelestial)) (Caelib b)
+- **Vice President -** Amelia Willis (London B) 
 - **Secretary -** Joshua Cleveland ([@vo-ip9](https://github.com/vo-ip9))
 - **Secretary of the Treasury -** Jacob Hypes
 - **Secretary of War -** Peter Yu ([@propeter35](https://github.com/propeter35))
