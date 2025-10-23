@@ -12,8 +12,8 @@ Active starting in 2024 and presently active until 2026
 
 - **President -** Caiden ([@Floral-Ouroboros ](https://github.com/Floral-Ouroboros ))
 - **Vice President -** London ([@LabRoboticist](https://github.com/LabRoboticist))
-- **Secretary -** N/A
-- **Treasurer -** N/A
+- **Social Media Secretary -** Noah 
+- **Treasurer -** Selena
 
 <details>
   <summary>Officers from 2024‒2025 year</summary>
