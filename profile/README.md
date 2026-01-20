@@ -14,6 +14,7 @@ Active starting in 2024 and presently active until 2026
 - **Vice President -** London ([@LabRoboticist](https://github.com/LabRoboticist))
 - **Social Media Secretary -** Noah 
 - **Treasurer -** Selena
+- **Minecraft Server Produgy -** Caleb 
 
 <details>
   <summary>Officers from 2024‒2025 year</summary>
