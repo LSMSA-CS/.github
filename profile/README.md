@@ -34,6 +34,9 @@ Active starting in 2024 and presently active until 2026
 
 #
 
+![London Beaubouef](https://github.com/LabRoboticist/USERNAME.png)
+
 <sub>
   If you are an officer of a future LSMSA CS club, email isoscyoung@gmail.com to gain access to this organization.
 </sub>
+
