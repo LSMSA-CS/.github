@@ -12,6 +12,8 @@ Active starting in 2024 and presently active until 2026
 
 - **President -** Caiden ([@Floral-Ouroboros ](https://github.com/Floral-Ouroboros ))
 - **Vice President -** London ([@LabRoboticist](https://github.com/LabRoboticist))
+<!-- ![London Beaubouef](https://github.com/LabRoboticist.png) -->
+  
 - **Social Media Secretary -** Noah 
 - **Treasurer -** Selena
 - **Minecraft Server Produgy -** Caleb 
@@ -33,8 +35,6 @@ Active starting in 2024 and presently active until 2026
 - **GitHub -** [@LSMSA-CS](https://github.com/LSMSA-CS/)
 
 #
-
-![London Beaubouef](https://github.com/LabRoboticist.png)
 
 <sub>
   If you are an officer of a future LSMSA CS club, email isoscyoung@gmail.com to gain access to this organization.
