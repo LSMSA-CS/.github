@@ -14,7 +14,10 @@ Active starting in 2024 and presently active until 2026
 - **Vice President -** London ([@LabRoboticist](https://github.com/LabRoboticist))
 <!-- ![London Beaubouef](https://github.com/LabRoboticist.png) this is shortcut to the url under this one-->
 <!-- ![London Beaubouef](https://avatars.githubusercontent.com/LabRoboticist) -->
-<img src="https://avatars.githubusercontent.com/LabRoboticist" width="50" /> <!-- style="verticle-align:middle; border-radius:50%" /> -->
+<a href="https://github.com/LabRoboticist"
+  <img src="https://avatars.githubusercontent.com/LabRoboticist" width="50" /> <!-- style="verticle-align:middle; border-radius:50%" /> -->
+  LJ simon
+<a/
 
 - **Social Media Secretary -** Noah 
 - **Treasurer -** Selena
