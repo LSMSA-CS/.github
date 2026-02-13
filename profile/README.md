@@ -12,8 +12,9 @@ Active starting in 2024 and presently active until 2026
 
 - **President -** Caiden ([@Floral-Ouroboros ](https://github.com/Floral-Ouroboros ))
 - **Vice President -** London ([@LabRoboticist](https://github.com/LabRoboticist))
-<!-- ![London Beaubouef](https://github.com/LabRoboticist.png) -->
-![London Beaubouef](https://avatars.githubusercontent.com/LabRoboticist)
+<!-- ![London Beaubouef](https://github.com/LabRoboticist.png) this is shortcut to the url under this one-->
+<!-- ![London Beaubouef](https://avatars.githubusercontent.com/LabRoboticist) -->
+<img src="https://avatars.githubusercontent.com/LabRoboticist" width="20">
 
 - **Social Media Secretary -** Noah 
 - **Treasurer -** Selena
