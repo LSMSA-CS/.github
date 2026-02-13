@@ -11,7 +11,8 @@ Active starting in 2024 and presently active until 2026
 ### 👔 Current Officers
 
 - **President -** Caiden ([@Floral-Ouroboros ](https://github.com/Floral-Ouroboros ))
-<img src="https://avatars.githubusercontent.com/LabRoboticist?size=64" width="32" style="border-radius:50%; vertical-align:middle;"/> - **Vice President -** London ([@LabRoboticist](https://github.com/LabRoboticist))
+
+  <img src="https://avatars.githubusercontent.com/LabRoboticist?size=64" width="32" style="border-radius:50%; vertical-align:middle;"/> - **Vice President -** London ([@LabRoboticist](https://github.com/LabRoboticist))
 <!-- ![London Beaubouef](https://github.com/LabRoboticist.png) this is shortcut to the url under this one-->
 <!-- ![London Beaubouef](https://avatars.githubusercontent.com/LabRoboticist) -->
 
