@@ -34,6 +34,7 @@ Active starting in 2024 and presently active until 2026
 
 
 ### 📸 Follow us!
+![Instagram](https://img.shields.io)
 - **Instagram -** [@lsmsa.cs](https://www.instagram.com/lsmsa.cs/)
 - **GitHub -** [@LSMSA-CS](https://github.com/LSMSA-CS/)
 
